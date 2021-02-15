@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>
+Thomas J Seiwert Industrial Design
+</title>
+<link href="device css.css" type="text/css" rel="stylesheet" />
+<p> <img src="Images/logo.jpeg" width="75" length="75" align="middle" /> <a href="index.html"> Work </a> / <a href="bio.html"> Bio </a> / <a href="contact.html"> Contact </a></p>
+</br>
+<br />
+<h1>HearRing Sound Gem</h1>
+<p><p class="IndustrialDesigner" >2020 / Industrial Design / Thesis</p>
+<br />
+<br />
+<hr />
+<br />
+<br />
+<style type="text/css">
+body {  
+            margin: 0;  
+            background: #FFFFFF;  
+        }  
+        .showSlide {  
+            display: none  
+        }  
+            .showSlide img {  
+                width: 100%;  
+            }  
+        .slidercontainer {  
+            max-width: 700px;  
+            position: relative;  
+            margin: auto;  
+        }  
+        .left, .right {  
+            cursor: pointer;  
+            position: absolute;  
+            top: 50%;  
+            width: auto;  
+            padding: 16px;  
+            margin-top: -22px;  
+            color: black;  
+            font-weight: bold;  
+            font-size: 18px;  
+            transition: 0.6s ease;  
+            border-radius: 0 3px 3px 0;  
+        }  
+        .right {  
+            right: 0;  
+            border-radius: 3px 0 0 3px;  
+        }  
+            .left:hover, .right:hover {  
+                background-color: rgba(0, 0, 0, 0);  
+            }  
+        .content {  
+            color: #eff5d4;  
+            font-size: 30px;  
+            padding: 8px 12px;  
+            position: absolute;  
+            top: 10px;  
+            width: 100%;  
+            text-align: center;  
+        }  
+        .active {  
+            background-color: #FFFFFF;  
+        }  
+        /* Fading animation */  
+        .fade {  
+            -webkit-animation-name: fade;  
+            -webkit-animation-duration: 1.5s;  
+            animation-name: fade;  
+            animation-duration: 1.5s;  
+        }  
+        @-webkit-keyframes fade {  
+            from {  
+                opacity: .4  
+            }  
+            to {  
+                opacity: 1  
+            }  
+        }  
+  
+        @keyframes fade {  
+            from {  
+                opacity: .4  
+            }  
+            to {  
+                opacity: 1  
+            }  
+        }  
+    </style>  
+</head>
+<body>
+
+<div class="slidercontainer">  
+        <div class="showSlide fade">  
+            <img src="Device Images/device 1.jpeg" />   
+        </div>  
+  
+        <div class="showSlide fade">  
+            <img src="Device Images/device 2.jpeg" />             
+        </div>  
+        <div class="showSlide fade">  
+            <img src="Device Images/device 3.jpeg" />              
+        </div>  
+        <div class="showSlide fade">  
+            <img src="Device Images/device 4.jpeg" />               
+        </div>
+            <div class="showSlide fade">  
+            <img src="Device Images/device 5.jpeg" />               
+        </div>
+            <div class="showSlide fade">  
+            <img src="Device Images/device 6.jpeg" />               
+        </div>
+            <div class="showSlide fade">  
+            <img src="Device Images/device 7.jpeg" />               
+        </div>
+            <div class="showSlide fade">  
+            <img src="Device Images/device 8.jpeg" />               
+        </div>
+            <div class="showSlide fade">  
+            <img src="Device Images/device 9.jpeg" />               
+        </div>
+            <div class="showSlide fade">  
+            <img src="Device Images/device 10.jpeg" />               
+        </div>  
+        <!-- Navigation arrows -->  
+        <a class="left" onclick="nextSlide(-1)">❮</a>  
+        <a class="right" onclick="nextSlide(1)">❯</a>  
+    </div>  
+  
+    <script type="text/javascript">  
+        var slide_index = 1;  
+        displaySlides(slide_index);  
+  
+        function nextSlide(n) {  
+            displaySlides(slide_index += n);  
+        }  
+  
+        function currentSlide(n) {  
+            displaySlides(slide_index = n);  
+        }  
+  
+        function displaySlides(n) {  
+            var i;  
+            var slides = document.getElementsByClassName("showSlide");  
+            if (n > slides.length) { slide_index = 1 }  
+            if (n < 1) { slide_index = slides.length }  
+            for (i = 0; i < slides.length; i++) {  
+                slides[i].style.display = "none";  
+            }  
+            slides[slide_index - 1].style.display = "block";  
+        }  
+        </script>  
+        <br />
+        <h3> A device that gives the deaf sound awareness. </h3>
+        <p> <p class="somename" > The HearRing Gem is a device that alerts the deaf of sounds within their home. 
+      <br /> <p class="somename2" > Control the way you recieve alerts through customizable options that are controled through the HearRing app.
+      <br /> <p class="somename3" > The HearRing gem displays icons, flashes and vibrates based on what you need for your home. </p>
+        <h3> Special Thanks </h3>
+        <p> <p class="thanks"> Special thanks to Proffessor Sung Jang for mentoring me. </p>
+<br />
+<br />
+<br />
+<hr >
+<br />
+<h2><a href="https://www.instagram.com/tj_industrial_design/"> Instagram </a> <a class="linkedin"><a href="https://www.linkedin.com/in/thomas-seiwert-30587a101/"> LinkedIn </a></h2>
+</body>
+</html>
