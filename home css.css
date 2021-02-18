@@ -3,7 +3,7 @@ nav select {
 }
 
 @media (max-width: 960px) {
-  p.g   { display: none; }
+  nav   { display: none; }
   nav select { display: inline-block; }
 }
 
