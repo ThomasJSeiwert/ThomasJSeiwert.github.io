@@ -13,8 +13,8 @@ img {
     -webkit-filter: brightness(100%);
 }
 
-@media (max-width: 960px) { img.device { margin-left: 240px; }
-                            img.toilet { margin-left: 240px; }
+@media (max-width: 960px) { img { margin-left: 180px; }
+                            
 }
 
 img:hover {
