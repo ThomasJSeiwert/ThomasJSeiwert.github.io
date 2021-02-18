@@ -15,7 +15,8 @@ img {
 @media (max-width: 960px) { img { margin-left: 80px; }
          hr {
     width:80%;
-}                   
+}          
+hr { margin-left: 80px; }               
 }
 
 img:hover {
