@@ -1,4 +1,11 @@
+nav select {
+  display: none;
+}
 
+@media (max-width: 960px) {
+  nav        { display: none; }
+  nav select { display: inline-block; }
+}
 
 img { max-width: 100%; }
 
