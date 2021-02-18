@@ -14,7 +14,7 @@ img {
 
 @media (max-width: 960px) { 
 
-img.device { margin-left: 180px; }
+img { margin-left: 180px; }
 img.toilet { margin-left: 180px; }
 img.dog { margin-left: 180px; }
 img.kitchen { margin-left: 180px; }
