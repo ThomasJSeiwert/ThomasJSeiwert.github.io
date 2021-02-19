@@ -4,6 +4,15 @@ img { max-width: 100%;
       diplay:block;}
 
 
+hr {
+    width:93%;
+}
+
+img {
+    -webkit-filter: brightness(100%);
+}
+
+@media (max-width: 960px) { 
 /* Style the navigation menu */
 .topnav {
   overflow: hidden;
@@ -45,16 +54,6 @@ img { max-width: 100%;
   background-color: #4CAF50;
   color: white;
 }
-
-hr {
-    width:93%;
-}
-
-img {
-    -webkit-filter: brightness(100%);
-}
-
-@media (max-width: 960px) { 
 
 img { margin-left: 80px; }
 img.logo { margin-left: 180px; }
