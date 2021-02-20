@@ -8,6 +8,13 @@ Thomas J Seiwert Industrial Design
 
 <link href="device css.css" type="text/css" rel="stylesheet" />
 </head>
+<style type="text/css">
+   .mobileHide { display: inline;}
+   /* Smartphone Portrait and Landscape */
+   @media only screen
+   and (min-device-width : 320px)
+   and (max-device-width : 480px){  .mobileHide { display: none;}}
+</style>
 
 <meta name="viewport" content="width=device-width; initial-scale=.7">
 <p> <img src="Images/logo.jpeg" width="75" length="75" align="middle" /> <a href="index.html"> Work </a> / <a href="bio.html"> Bio </a> / <a href="contact.html"> Contact </a></p>
@@ -157,7 +164,8 @@ body {
         }  
         </script>  
         <br />
-<div id=”content-desktop”>
+
+<div class="mobileHide">
         <h3> A device that gives the deaf sound awareness. </h3>
         <p> <p class="somename" > The HearRing Gem is a device that alerts the deaf of sounds within their home. 
       <br /> <p class="somename2" > Control the way you recieve alerts through customizable options that are controled through the HearRing app.
