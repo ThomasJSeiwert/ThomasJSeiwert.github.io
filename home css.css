@@ -1,4 +1,4 @@
-
+img.logo2 {text-indent:180px;}
 
 img { max-width: 100%; 
       diplay:block;}
@@ -14,7 +14,7 @@ img {
 
 @media (max-width: 960px) { 
 
-img { margin-left: 80px; }
+img { margin-left: 60px; }
 img.logo { margin-left: 180px; }
 
 
