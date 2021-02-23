@@ -14,9 +14,13 @@ img {
 
 @media (max-width: 960px) { 
 
-img { margin-left: 60px; }
-img.logo { margin-left: 180px; }
-
+img.device { margin-left: 60px; }
+img.kitchen { margin-left: 60px; }
+img.fca { margin-left: 60px; }
+img.renderings { margin-left: 60px; }
+img.toilet { margin-left: 60px; }
+img.microwave { margin-left: 60px; }
+img.camera { margin-left: 60px; }
 
 hr { width:73%; }                        
 }
