@@ -14,16 +14,26 @@ img {
 
 @media (max-width: 960px) { 
 
-img.device { margin-left: 60px; }
-img.kitchen { margin-left: 60px; }
-img.fca { margin-left: 60px; }
-img.renderings { margin-left: 60px; }
-img.toilet { margin-left: 60px; }
-img.microwave { margin-left: 60px; }
-img.camera { margin-left: 60px; }
+img.device2 { margin-left: 60px; }
+img.kitchen2 { margin-left: 60px; }
+img.fca2 { margin-left: 60px; }
+img.renderings2 { margin-left: 60px; }
+img.toilet2 { margin-left: 60px; }
+img.microwave2 { margin-left: 60px; }
+img.camera2 { margin-left: 60px; }
 
-hr { width:73%; }                        
+hr { width:60%; }                        
 }
+
+
+img.device2 { margin-left: 60px; }
+img.kitchen2 { margin-left: 60px; }
+img.fca2 { margin-left: 60px; }
+img.renderings2 { margin-left: 60px; }
+img.toilet2 { margin-left: 60px; }
+img.microwave2 { margin-left: 60px; }
+img.dog2 { margin-left: 60px; }
+
 
 img:hover {
     -webkit-filter: brightness(60%);
