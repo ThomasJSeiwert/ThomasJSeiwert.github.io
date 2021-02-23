@@ -57,6 +57,8 @@ h2 {text-indent: 70px;}
 
 p.IndustrialDesigner { text-indent: 70px; }
 
+?devicehtml?
+
 p.somename { text-indent: 665px; }
 p.somename2 { text-indent: 665px; }
 p.somename3 { text-indent: 665px; }
@@ -64,21 +66,20 @@ h3 { text-align: left;}
 h3 { text-indent: 665px; }   
 
 
-h3.noname1 { text-indent: 25px; }
-p.noname2 { text-indent: 25px; }
-p.noname2.5 { text-indent: 25px; }
-p.noname3 { text-indent: 25px; }
-p.noname3.5 { text-indent: 25px; }
-p.noname4 { text-indent: 25px; }
-p.noname4.5 { text-indent: 25px; }
-h3.noname5 { text-indent: 25px; }
-p.noname6 { text-indent: 25px; }
+h3.noname1 { text-indent: 70px; }
+p.noname2 { text-indent: 70px; }
+p.noname2.5 { text-indent: 70px; }
+p.noname3 { text-indent: 70px; }
+p.noname3.5 { text-indent: 70px; }
+p.noname4 { text-indent: 70px; }
+p.noname4.5 { text-indent: 70px; }
+h3.noname5 { text-indent: 70px; }
+p.noname6 { text-indent: 70px; }
 
 logo.PNG { text-indent: 70px; }
 
 p.buttons { text-indent: 70px; }
 
-p { text-indent: 70px; }
 
 p.thanks { text-indent: 665px;}
 
