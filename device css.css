@@ -1,3 +1,13 @@
+h3.somename0 { text-indent: 665px; }
+p.somename1 { text-indent: 665px; }
+p.somename2 { text-indent: 665px; }
+p.somename3 { text-indent: 665px; }
+h3 { text-align: left;}
+img.logo1 {text-indent:70px;}
+h3.special {text-indent:665px;}
+img.logo {text-indent:70px;}
+hr { width:73%; }   
+
 h3.render1 { text-indent: 15px; }
 p.render2 { text-indent: 15px; }
 p.render3 { text-indent: 15px; }
@@ -115,10 +125,6 @@ p.IndustrialDesigner { text-indent: 70px; }
 
 ?devicehtml?
 
-p.somename { text-indent: 665px; }
-p.somename2 { text-indent: 665px; }
-p.somename3 { text-indent: 665px; }
-h3 { text-align: left;}
 
 
 
@@ -135,12 +141,14 @@ p.noname9 { text-indent: 15px; }
 
 
 
-logo.PNG { text-indent: 70px; }
+
 
 p.buttons { text-indent: 70px; }
 
 
 p.thanks { text-indent: 665px;}
+
+
 
 p {
   margin-top: 0em ;
@@ -163,9 +171,6 @@ a:visited { text-decoration: none; color:black; }
 a:hover { text-decoration: none; color:black; }
 a:focus { text-decoration: none; color:grey; }
 a:hover, a:active { text-decoration: none; color:grey }
-
-
-
 
 
 * {box-sizing: border-box}
