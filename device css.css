@@ -6,7 +6,8 @@ h3 { text-align: left;}
 img.logo1 {text-indent:70px;}
 h3.special {text-indent:665px;}
 img.logo {text-indent:70px;}
-hr { width:73%; }   
+hr { width:93%; }   
+
 
 h3.render1 { text-indent: 15px; }
 p.render2 { text-indent: 15px; }
@@ -116,6 +117,7 @@ p { width: 450;}
 h1 {text-indent: 70px;}
 
 form { margin-left: 60px; }
+img { margin-left: 60px; }
 
 a.linkedin { margin-left: 70px; }
 
