@@ -117,7 +117,7 @@ p { width: 450;}
 h1 {text-indent: 70px;}
 
 form { margin-left: 60px; }
-img { margin-left: 60px; }
+img.logo { margin-left: 60px; }
 
 a.linkedin { margin-left: 70px; }
 
