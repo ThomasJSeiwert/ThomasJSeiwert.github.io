@@ -1,5 +1,5 @@
 button.button { margin-left: 70px; }
-img.face { margin-left: 35px; }
+img.face { margin-left: 32px; }
 
 
 
@@ -34,7 +34,7 @@ p.bio700 {text-indent:15px;}
 p.bio600 {text-indent:15px;}
 
 img.face {
-height:400px;
+height:450px;
 width200px;
 
 object-fit:cover;}
