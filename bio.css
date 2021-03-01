@@ -1,3 +1,18 @@
+button.btn {
+  background-color: rgb(255,120,0);
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+button.btn {
+  background-color: rgb(255,120,0);
+}
+
+button.btn { margin-left: 350px; }
+
 button.button { margin-left: 140px; }
 img.face { margin-left: 34px; }
 
