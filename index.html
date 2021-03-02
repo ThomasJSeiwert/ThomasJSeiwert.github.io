@@ -5,19 +5,57 @@ Thomas J Seiwert Industrial Design
 </title>
 <link href="home css.css" type="text/css" rel="stylesheet" />
 </head>
-
-
-<div class="mobileShow">
-<input type="checkbox" id="overlay-input" />
-<label for="overlay-input" id="overlay-button"><span></span></label>
-  <div id="overlay">
-    <ul>
-      <li><a href="index.html">Work</a></li>
-      <li><a href="bio.html">Bio</a></li>
-      <li><a href="contact.html">Contact</a></li>
-    </ul>
-  </div>
+<div class="mobile">
+	<div class="mainContainer">
+		<header>
+			<a href="#" class="logo">logo</a>
+			<a href="#" class="menuBtn">
+				<span class="lines"></span>
+			</a>
+			<nav class="mainMenu">
+				<ul>
+					<li>
+						<a href="#">Intro</a>
+					</li>
+					<li>
+						<a href="#">Services</a>
+					</li>
+					<li>
+						<a href="#">Team</a>
+					</li>
+					<li>
+						<a href="#">Pricing</a>
+					</li>
+					<li>
+						<a href="#" class="suBtn">Sing Up</a>
+					</li>
+				</ul>
+			</nav>
+		</header>
+		<div class="container">
+		</div>
+		<footer>
+		</footer>
+	</div>
 </div>
+
+
+
+<script>
+$(document).ready(function(){
+	// menu click event
+	$('.menuBtn').click(function() {
+		$(this).toggleClass('act');
+			if($(this).hasClass('act')) {
+				$('.mainMenu').addClass('act');
+			}
+			else {
+				$('.mainMenu').removeClass('act');
+			}
+	});
+});
+</script>
+
 
 
 
@@ -36,6 +74,7 @@ Thomas J Seiwert Industrial Design
    and (max-device-width : 480px){ .mobileShow { display: inline;}}
 </style>
 <meta name="viewport" content="width=device-width; initial-scale=.7">
+
 <div class="mobileHide">
 <p> <img src="Images/logo.jpeg" width="75" length="75" align="middle" img class="logo" /> <a href="index.html"> Work </a> / <a href="bio.html"> Bio </a> / <a href="contact.html"> Contact </a></p>
 </div>
