@@ -20,26 +20,66 @@ Thomas J Seiwert Industrial Design
 </style>
 <meta name="viewport" content="width=device-width; initial-scale=.7">
 </head>
+
 <div id="links">
-  <a href="index.html">Home</a>
-  <a href="bio.html">Bio</a>
-  <a href="contact.html">Contact</a>
-</div>
-<div class="mobileShow">
-<div id="links">
-  <a href="index.html">Home</a>
-  <a href="bio.html">Bio</a>
-  <a href="contact.html">Contact</a>
-</div>
+</br>
+
+<a href="index.html"><img class="close"><img src="Images/quit.png"  width="25" length="25" align="left" /></a>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+</br>
+  <a href="index.html"><a class="home1">Home</a>
+</br>
+</br>
+</br>
+  <a href="bio.html"><a class="bio1">Bio</a>
+</br>
+</br>
+</br>
+  <a href="contact.html"><a class="contact1">Contact</a>
 </div>
 
+<style>
+#links{
+  position: fixed;
+  display: none;
+  width: 100vw;
+  height: 65vh;
+  padding: 0vh 0;
+
+  z-index: 9999;
+}
+</style>
+
+
+
+
+
 <div class="mobileHide">
+</br>
 <p> <img src="Images/logo.jpeg" width="75" length="75" align="middle" img class="logo" /> <a href="index.html"> Work </a> / <a href="bio.html"> Bio </a> / <a href="contact.html"> Contact </a></p>
 </div>
 <div class="mobileShow">
 <p> <img class="logo2"><img src="Images/logo.jpeg" width="75" length="75" align="middle" img class="logo" /></p>
 </div>
-</br>
 </br>
 <h1><h1 class="Tom">Thomas J Seiwert</h1>
 <p>Industrial Designer</p>
@@ -55,15 +95,14 @@ Thomas J Seiwert Industrial Design
 <h2><p class="what4">performing market research.</h2>
 </div>
 <br  />
-<br  />
 <div class="mobileHide">
-<a href="device.html"><img class="device"><img src="Images/device thumbnail.jpg" width="400" length="400" title="Alert Device for Deaf 2020" /></a>
-<a href="camera.html"><img class="dog"><img src="Images/dog thumbnail.jpeg" width="400" length="400" title="Dog Feeder and Camera 2018" /></a>
+<a href="device.html"><img class="device"><img src="Images/device thumbnail.jpg"  width="400" length="400" title="Alert Device for Deaf 2020" /></a>
+<a href="camera.html"><img class="dog"><img src="Images/dog thumbnail.jpeg"   width="400" length="400" title="Dog Feeder and Camera 2018" /></a>
 <a href="fca.html"><img class="fca"><img src="Images/fca thumbnail 2.jpeg" width="400" length="400" title="FCA Trash Console 2019" /></a>
-<a href="kitchen.html"><img class="kitchen"><img src="Images/kitchen thumbnail.jpeg" width="400" length="400" title="Kitchen Apliances 2019" /></a>
+<a href="kitchen.html"><img class="kitchen"><img src="Images/kitchen thumbnail.jpeg"  width="400" length="400" title="Kitchen Apliances 2019" /></a>
 <br />
-<a href="toilet.html"><img class="toilet"><img src="Images/toilet thumbnail.jpeg" width="400" length="400" title="Water Conservation 2018" /></a>
-<a href="microwave.html"><img class="toaster"><img src="Images/toaster thumbnail.jpeg" width="400" length="400" title="Toaster Family 2019" /></a>
+<a href="toilet.html"><img class="toilet"><img src="Images/toilet thumbnail.jpeg"  width="400" length="400" title="Water Conservation 2018" /></a>
+<a href="microwave.html"><img class="toaster"><img src="Images/toaster thumbnail.jpeg"  width="400" length="400" title="Toaster Family 2019" /></a>
 <a href="renders.html"><img class="renderings"><img src="Images/renderings thumbnail 2.jpeg" width="400" length="400" title="Renderings 2016-2021" /></a>
 </div>
 
@@ -133,14 +172,50 @@ Thomas J Seiwert Industrial Design
 <br />
 
 
-<h2><a href="https://www.instagram.com/tj_industrial_design/"><p class="what5"> Instagram </a> <a class="linkedin"><a href="https://www.linkedin.com/in/thomas-seiwert-30587a101/"> LinkedIn </a></h2>
 
 
+<a href="https://www.instagram.com/tj_industrial_design/"><img class="insta"><img src="Images/insta.png" width="35 length="35" /></a>
+<a href="https://www.linkedin.com/tj_industrial_design/"><img class="linked"><img src="Images/linked.png" width="35" length="35" /></a>
+</br>
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
 <style>
+#links2 a{
+  top: 0;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  font-size: 2em;
+  font-family: 'Roboto';
+  z-index: 10;
+}
+</style>
+<style>
 body{padding: 0; margin: 0; font-family: 'Roboto';}
-h1 { position: absolute; top: 100px; left: 100px; }
+
+
+
+
+#links a{
+  top: 0;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  font-size: 2em;
+  font-family: 'Roboto';
+  z-index: 10;
+}
+#links2 a{
+  top: 0;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  font-size: 2em;
+  font-family: 'Roboto';
+  z-index: 10;
+}
+
+
 #burger{
   position: fixed;
   right: 0;
@@ -154,56 +229,55 @@ h1 { position: absolute; top: 100px; left: 100px; }
   cursor: pointer;
 }
 
-#quit{
-  position: fixed;
+
+
+#links a.quit{
   top: 0;
-  color: black;
-  font-size: 32px;
-  padding: 16px;
-  display: none;
-  cursor: pointer;
-}
-
-#links{
-  
-  display: none;
-  flex-direction: column;
-  width: 100vw;
-  height: 50vh;
-  padding: 25vh 0;
-  justify-content: space-around;
-  z-index: 9999;
-}
-
-#links a{
-  text-align: center;
+  text-align: left;
   text-decoration: none;
-  color: white;
+  color: black;
   font-size: 2em;
-  font-family: 'Roboto';
+  font-family: 'SWRomnd';
   z-index: 10;
-}</style>
+}
+
+#quitlink a{
+  top: 0;
+  text-align: left;
+  text-decoration: none;
+  color: black;
+  font-size: 2em;
+  font-family: 'SWRomnd';
+  z-index: 10;
+}
+
+</style>
 
 
 <body>
+
+
   <i id="burger" class="material-icons" onclick="burger()">menu</i>
-<i id="quit" class="material-icons" onclick="quit()">clear</i>
+
 <script >function burger(){
   var burger = document.getElementById('burger');
   var links = document.getElementById('links');
+  var links2 = document.getElementById('links2');
   var quit = document.getElementById('quit');
   burger.style.padding = '16px 16px 200vw 200vw';
-  links.style.display = 'flex';
+  links.style.display = 'inline';
+  links2.style.display = 'flex';
   quit.style.display = 'inline';
 }
 
 function quit(){
   var burger = document.getElementById('burger');
   var links = document.getElementById('links');
-  var quit = document.getElementById('quit');
+  var links2 = document.getElementById('links');
+  
   burger.style.padding = '16px 16px 32px 32px';
-  links.style.display = 'none';
-  quit.style.display = 'none';
+ 
+  
 }
 </script>
 <script>
