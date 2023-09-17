@@ -101,7 +101,7 @@ img:hover {
     transition: all .2s ease;
 }
 
-img.Insta1 {
+img.Insta1:hover {
     -webkit-filter: brightness(60%);
     -webkit-transition: all .2s ease;
     -moz-transition: all .2s ease;
