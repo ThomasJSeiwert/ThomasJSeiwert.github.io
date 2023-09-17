@@ -101,6 +101,14 @@ img:hover {
     transition: all .2s ease;
 }
 
+img.Insta1 {
+    -webkit-filter: brightness(60%);
+    -webkit-transition: all .2s ease;
+    -moz-transition: all .2s ease;
+    -o-transition: all .2s ease;
+    -ms-transition: all .2s ease;
+    transition: all .2s ease;
+}
 img.logo {
     -webkit-filter: brightness(100%);
 }
@@ -197,14 +205,7 @@ a:focus { text-decoration: none; color:grey; }
 a:hover, a:active { text-decoration: none; color:grey }
 
 
-img.Insta1 {
-    -webkit-filter: brightness(60%);
-    -webkit-transition: all .2s ease;
-    -moz-transition: all .2s ease;
-    -o-transition: all .2s ease;
-    -ms-transition: all .2s ease;
-    transition: all .2s ease;
-}
+
 </div>
 
 
