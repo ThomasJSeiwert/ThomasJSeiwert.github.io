@@ -1,9 +1,72 @@
+a.home1 {margin-left: 930px;}
+a.bio1 {margin-left: 930px;}
+a.contact1 {margin-left: 930px;}
+
+
+
+
+img.insta { margin-left: 60px; }
+
+
+img.dog {
+margin: 4px 4px 8px ;
+}
+
+img.device {
+margin: 4px 4px 8px ;
+}
+
+img.microwave {
+margin: 4px 4px 8px ;
+}
+
+img.fca {
+margin: 4px 4px 8px ;
+}
+
+img.render {
+margin: 4px 4px 8px ;
+}
+
+img {
+margin: 4px 4px 8px ;
+}
+
+img {
+  border-radius: 30px;
+}
+
+img.dog {
+  border-radius: 70px;
+}
+
+background-color:{ black;}
+
+h2.what1 {text-indent: 0px;}
+h2.what2 {text-indent: 0px;}
+h2.what3 {text-indent: 0px;}
+h2.what4 {text-indent: 0px;}
+h2.what5 {text-indent: 70px;}
+
+
+
+
+img.logo2 {text-indent:180px;}
+
+img { max-width: 100%; 
+      diplay:block;}
+
+
+hr {
+    width:93%;
+}
+
 img {
     -webkit-filter: brightness(100%);
 }
 
 img.insta {
-    -webkit-filter: brightness(60%);
+    -webkit-filter: brightness(100%);
 }
 
 
@@ -40,7 +103,7 @@ img:hover {
     transition: all .2s ease;
 }
 
-img.insta {
+insta:hover {
     -webkit-filter: brightness(60%);
     -webkit-transition: all .2s ease;
     -moz-transition: all .2s ease;
@@ -70,8 +133,6 @@ h1.Tom {color: rgb(255,120,0);}
 h1.Tom {font family: Courier;}
 
 
-p.one {
-border-width: 2px;}
 
 p { width: 450;}
 
@@ -85,7 +146,7 @@ img.toilet { margin-left: 180px; }
 
 p2 { margin-left: 70px; }
 
-a.linkedin { margin-left: 30px; }
+a.linkedin { margin-left: 70px; }
 
 me2.JPG { margin-left: 70px; }
 
@@ -137,15 +198,6 @@ a:hover { text-decoration: none; color:black; }
 a:focus { text-decoration: none; color:grey; }
 a:hover, a:active { text-decoration: none; color:grey }
 
-img.insta {
-text-decoration:none;
-}
-img.insta:visited { text-decoration: none; color:black; }
-img.insta:hover { text-decoration: none; color:black; }
-img.insta:focus { text-decoration: none; color:grey; }
-img.insta:hover, a:active { text-decoration: none; color:grey }
-
-
 Insta1.png {
 text-decoration:none;
 }
@@ -157,3 +209,8 @@ a:hover, a:active { text-decoration: none; color:grey }
 
 
 </div>
+
+
+
+
+</body
