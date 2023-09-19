@@ -212,10 +212,10 @@ a:hover, a:active { text-decoration: none; color:grey }
 img.insta {
 text-decoration:none;
 }
-a:visited { text-decoration: none; color:black; }
-a:hover { text-decoration: none; color:black; }
-a:focus { text-decoration: none; color:grey; }
-a:hover, a:active { text-decoration: none; color:grey }
+img.insta:visited { text-decoration: none; color:black; }
+img.insta:hover { text-decoration: none; color:black; }
+img.insta:focus { text-decoration: none; color:grey; }
+img.insta:hover, a:active { text-decoration: none; color:grey }
 
 
 Insta1.png {
