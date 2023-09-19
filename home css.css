@@ -8,6 +8,14 @@ a.contact1 {margin-left: 930px;}
 
 img.insta { margin-left: 60px; }
 
+img.insta {
+    -webkit-filter: brightness(60%);
+    -webkit-transition: all .2s ease;
+    -moz-transition: all .2s ease;
+    -o-transition: all .2s ease;
+    -ms-transition: all .2s ease;
+    transition: all .2s ease;
+}
 
 img.dog {
 margin: 4px 4px 8px ;
