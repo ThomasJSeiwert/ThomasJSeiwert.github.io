@@ -49,9 +49,14 @@ h2.what4 {text-indent: 0px;}
 h2.what5 {text-indent: 70px;}
 
 
-
-
-img.logo2 {text-indent:180px;}
+img.device { margin-left: 50px; }
+img.kitchen { margin-left: 50px; }
+img.fca { margin-left: 50px; }
+img.renderings { margin-left: 50px; }
+img.toilet { margin-left: 50px; }
+img.microwave { margin-left: 50px; }
+img.camera { margin-left: 50px; }
+img.logo {text-indent:180px;}
 
 img { max-width: 100%; 
       diplay:block;}
