@@ -1,4 +1,4 @@
-h1 {color: rgb(255,120,0);}
+h1 {color: rgb(0,0,0);}
 
 
 h1 {font family: Courier;}
@@ -37,7 +37,7 @@ h1 {
 }
 
 hr {
-  border-top: 4px solid rgb(255,120,0);
+  border-top: 2px solid rgb(0,0,0);
 }
 
 a {
