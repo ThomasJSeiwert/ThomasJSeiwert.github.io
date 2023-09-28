@@ -67,7 +67,7 @@ img.insta {
     -webkit-filter: brightness(100%);
 }
 
-
+img.linked { margin-left: 16px; }
 
 @media (max-width: 960px) { 
 
