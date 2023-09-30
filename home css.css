@@ -7,18 +7,18 @@ a.contact1 {margin-left: 930px;}
 
 img.insta { margin-left: 60px; }
 img.linked { margin-left: 16px; }
---img.device/ { margin-left: 0px; }-->
-/img.dog/ { margin-left: 0px; }
-/img.renderings/ { margin-right: 50px; }
-/img.fca/ { margin-left: 50px; }
-/img.toilet/ { margin-left: 50px; }
+img.device { margin-left: 0px; }
+img.dog { margin-left: 0px; }
+img.renderings { margin-right: 50px; }
+img.fca { margin-left: 50px; }
+img.toilet { margin-left: 50px; }
 
-/img.dog/ { margin: 4px 4px 4px 4px  }
-/img.fca/ { margin: 480px 80px 70px 70px  }
-/img.kitchen/ { margin: 4px 120px 4px 4px  }
-/img.renderings/ { margin: 80px 80px 80px 70px  }
-/img.toaster/ { margin: 4px 120px 4px 4px  }
-/img.toilet/ { margin: 80px 80px 70px 70px  }
+img.dog { margin: 4px 4px 4px 4px  }
+img.fca { margin: 480px 80px 70px 70px  }
+img.kitchen { margin: 4px 120px 4px 4px  }
+img.renderings { margin: 80px 80px 80px 70px  }
+img.toaster { margin: 4px 120px 4px 4px  }
+img.toilet { margin: 80px 80px 70px 70px  }
 
 img {
 margin: 0px 0px 0px 60px ;
