@@ -25,7 +25,19 @@ h3.experience { text-indent: 350px; }
 h3.education { text-indent: 350px; }
 
 h3.contact { text-indent: 350px; }
-hr { width:93%; }         
+hr { width:93%; }    
+
+
+img {
+float: none;
+}
+
+a {
+float: none;
+}
+
+
+
 
 p.IndustrialDesigner {text-indent:70px;}
 p.bio1 {text-indent:15px;}
