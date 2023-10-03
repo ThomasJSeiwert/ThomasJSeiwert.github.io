@@ -20,9 +20,14 @@ img.renderings { margin: 0px 60px 0px 20px  }
 img.toaster { margin: 0px 0px 0px 20px  }
 img.toilet { margin: 80px 60px 0px 20px  }
 
-img [
+img {
 float: none;
 }
+
+a {
+float: none;
+}
+
 
 img {
 margin: 0px 0px 0px 0px ;
