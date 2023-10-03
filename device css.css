@@ -24,6 +24,15 @@ img.logo {text-indent:70px;}
 hr { width:93%; }   
 
 
+img {
+float: none;
+}
+
+a {
+float: none;
+}
+
+
 h3.render1 { text-indent: 15px; }
 p.render2 { text-indent: 15px; }
 p.render3 { text-indent: 15px; }
