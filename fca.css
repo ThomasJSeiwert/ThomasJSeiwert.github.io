@@ -12,11 +12,11 @@ h1 {text-indent: 70px;}
 
 p.IndustrialDesigner { text-indent: 70px; }
 
-p.somename { text-indent: 330px; }
-p.somename2 { text-indent: 330px; }
-p.somename3 { text-indent: 330px; }
-h3 { text-align: right;}
-h3 { text-indent: 330px; }   
+p.somename { text-indent: 30px; }
+p.somename2 { text-indent: 30px; }
+p.somename3 { text-indent: 30px; }
+h3 { text-align: left;}
+h3 { text-indent: 30px; }   
 
 logo.PNG { text-indent: 70px; }
 
@@ -24,7 +24,7 @@ p.buttons { text-indent: 70px; }
 
 p { text-indent: 70px; }
 
-p.thanks { text-indent: 330px;}
+p.thanks { text-indent: 30px;}
 
 </body>  
 </html>   
