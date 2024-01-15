@@ -22,9 +22,7 @@ img.logo1 {text-indent:70px;}
 h3.special {text-indent:350px;}
 img.logo {text-indent:70px;}
 hr { width:93%; }   
-*, ::before, ::after {
-  outline:1px solid red;
-}
+
 img {
 float: none;
 }
@@ -110,8 +108,9 @@ and (max-device-width : 480px) {
 hr { width:73%; }                        
 }
 
-
-
+*, ::before, ::after {
+  outline:1px solid red;
+}
 p.number {text-indent: 70px;}
 
 h1 {color: rgb(0,0,0);}
