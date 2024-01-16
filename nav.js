@@ -1,3 +1,5 @@
+
+<script type="text/javascript">  
 const hamburger = document.querySelector(".hamburger");
 const navMenu = document.querySelector(".nav-menu");
 
@@ -21,3 +23,4 @@ function mobileMenu() {
     .hamburger.active .bar:nth-child(3) {
         transform: translateY(-8px) rotate(-45deg);
     }
+</script> 
