@@ -200,7 +200,7 @@ img {
 }
 
 img.insta {
-    -webkit-filter: brightness(100%);
+    -webkit-filter: brightness(50%);
 }
 
 img.linked { margin-left: 16px; }
