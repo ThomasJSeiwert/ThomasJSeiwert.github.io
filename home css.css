@@ -200,7 +200,7 @@ img {
 }
 
 img.insta {
-    -webkit-filter: brightness(50%);
+    -webkit-filter: brightness(100%);
 }
 
 img.linked { margin-left: 16px; }
@@ -238,7 +238,7 @@ img:hover {
 }
 
 insta:hover {
-    -webkit-filter: brightness(60%);
+    -webkit-filter: brightness(30%);
     -webkit-transition: all .2s ease;
     -moz-transition: all .2s ease;
     -o-transition: all .2s ease;
