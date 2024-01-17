@@ -13,6 +13,19 @@ button.btn {
   background-color: rgb(0,0,0);
 }
 
+buttonmobile.btn {
+  background-color: rgb(0,0,0);
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+buttonmobile.btn {
+  background-color: rgb(0,0,0);
+}
+
 /*button.bpooptn { margin-left: 350px; }*/
 
 buttonmobile.btn { margin-left: 50px; }
