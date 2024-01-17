@@ -362,6 +362,12 @@ button.butt:hover {
 }
 
 
+
+img:insta {-webkit-filter: brightness(150%); }
+
+img:linked {-webkit-filter: brightness(150%); }
+
+
 </body>  
 </html>   
 
