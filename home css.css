@@ -246,6 +246,7 @@ img.insta:hover {
     transition: all .2s ease;
 }
 
+img.insta:hover {-webkit-filter: brightness(150%); }
 
 
 img.linked:hover {
