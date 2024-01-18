@@ -126,9 +126,7 @@ img
 
 
 
-img.insta:hover {
-  opacity: 0.5;
-}
+
 
 
 
@@ -348,4 +346,16 @@ a:hover, a:active { text-decoration: none; color:grey }
 </div>
 img.insta { margin-left: 672px; }
 img.linked { margin-left: 16px; }
+
+
+img.insta:hover {
+  opacity: 0.5;
+}
+
+img.linked:hover {
+  opacity: 0.5;
+}
+
+
+
 </body
