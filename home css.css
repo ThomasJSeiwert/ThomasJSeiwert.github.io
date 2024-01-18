@@ -348,7 +348,7 @@ img.insta { margin-left: 672px; }
 img.linked { margin-left: 16px; }
 
 
-img.insta:hover {
+img.insta {
   opacity: 0.5;
 }
 
