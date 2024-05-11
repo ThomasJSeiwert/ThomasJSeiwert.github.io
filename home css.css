@@ -219,6 +219,7 @@ img.renderings2 { margin-left: 50px; }
 img.toilet2 { margin-left: 60px; }
 img.microwave2 { margin-left: 50px; }
 img.camera2 { margin-left: 50px; }
+img.back2 { margin-left: 50px; }
 
 hr { width:76%; }                        
 }
@@ -232,6 +233,7 @@ img.toilet2 { margin-left: 60px; }
 img.toaster2 { margin-left: 60px; }
 img.dog2 { margin-left: 60px; }
 img.rice2 { margin-left: 60px; }
+
 
 
 img:hover {
