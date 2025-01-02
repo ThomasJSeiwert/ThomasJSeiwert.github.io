@@ -141,43 +141,6 @@ body {
    
    
    
-<div class="slidercontainer"> 
-
-   <div class="showSlide fade">  
-            <img src="Images/newnew2.png" />    
-        </div>  
-   
-         <div class="showSlide fade">  
-            <img src="Images/AEDfront.png" />    
-        </div>  
-   
-        <div class="showSlide fade">  
-            <img src="Images/AEDleft.png" />   
-        </div>  
-        
-  
-        <div class="showSlide fade">  
-            <img src="Images/AEDright.png" />             
-        </div>  
-        <div class="showSlide fade">  
-            <img src="Images/AEDback.png" />              
-        </div>  
-        <div class="showSlide fade">  
-            <img src="Images/AEDcloseup.png" />               
-        </div>  
-            <div class="showSlide fade">  
-            <img src="Images/AEDextralocker.png" />               
-        </div> 
-  <div class="showSlide fade">  
-            <img src="Images/AEDopened1png.png" />               
-        </div> 
-   <div class="showSlide fade">  
-            <img src="Images/AEDopened2png.png" />               
-        </div> 
-   <div class="showSlide fade">  
-            <img src="Images/AEDopened3png.png" />               
-        </div> 
-
 
 
 
@@ -229,34 +192,6 @@ body {
 
 
 
-        <!-- Navigation arrows -->  
-        <a class="left" onclick="nextSlide(-1)">❮</a>  
-        <a class="right" onclick="nextSlide(1)">❯</a>  
-    </div>  
-  
-    <script type="text/javascript">  
-        var slide_index = 1;  
-        displaySlides(slide_index);  
-  
-        function nextSlide(n) {  
-            displaySlides(slide_index += n);  
-        }  
-  
-        function currentSlide(n) {  
-            displaySlides(slide_index = n);  
-        }  
-  
-        function displaySlides(n) {  
-            var i;  
-            var slides = document.getElementsByClassName("showSlide");  
-            if (n > slides.length) { slide_index = 1 }  
-            if (n < 1) { slide_index = slides.length }  
-            for (i = 0; i < slides.length; i++) {  
-                slides[i].style.display = "none";  
-            }  
-            slides[slide_index - 1].style.display = "block";  
-        }  
-        </script>  
         <br />
 <div class="mobileHide">
         <h3> <h3 class="somename0" >A Versatile Park Emergency Station </h3>
