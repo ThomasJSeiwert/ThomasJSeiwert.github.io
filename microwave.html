@@ -46,122 +46,15 @@ Thomas J Seiwert Industrial Design
 <h...r />
 <br />
 <br />
-<style type="text/css">
-body {  
-            margin: 0;  
-            background: #FFFFFF;  
-        }  
-        .showSlide {  
-            display: none  
-        }  
-            .showSlide img {  
-                width: 100%;  
-            }  
-        .slidercontainer {  
-            max-width: 700px;  
-            position: relative;  
-            margin: auto;  
-        }  
-        .left, .right {  
-            cursor: pointer;  
-            position: absolute;  
-            top: 50%;  
-            width: auto;  
-            padding: 16px;  
-            margin-top: -22px;  
-            color: black;  
-            font-weight: bold;  
-            font-size: 18px;  
-            transition: 0.6s ease;  
-            border-radius: 0 3px 3px 0;  
-        }  
-        .right {  
-            right: 0;  
-            border-radius: 3px 0 0 3px;  
-        }  
-            .left:hover, .right:hover {  
-                background-color: rgba(0, 0, 0, 0);  
-            }  
-        .content {  
-            color: #eff5d4;  
-            font-size: 30px;  
-            padding: 8px 12px;  
-            position: absolute;  
-            top: 10px;  
-            width: 100%;  
-            text-align: center;  
-        }  
-        .active {  
-            background-color: #FFFFFF;  
-        }  
-        /* Fading animation */  
-        .fade {  
-            -webkit-animation-name: fade;  
-            -webkit-animation-duration: 1.5s;  
-            animation-name: fade;  
-            animation-duration: 1.5s;  
-        }  
-        @-webkit-keyframes fade {  
-            from {  
-                opacity: .4  
-            }  
-            to {  
-                opacity: 1  
-            }  
-        }  
-  
-        @keyframes fade {  
-            from {  
-                opacity: .4  
-            }  
-            to {  
-                opacity: 1  
-            }  
-        }  
-    </style>  
-</head>
+
+
+
+
+
+
 <body>
-<div class="slidercontainer">  
-        <div class="showSlide fade">  
-            <img src="Microwave Images/Autumn_1.png" />   
-        </div>  
-        <div class="showSlide fade">  
-            <img src="Microwave Images/Autumn_2.jpg" />    
-        </div>  
-  
-        <div class="showSlide fade">  
-            <img src="Microwave Images/Autumn_3.jpg" />             
-        </div>  
-<!-- Navigation arrows -->  
-        <a class="left" onclick="nextSlide(-1)">❮</a>  
-        <a class="right" onclick="nextSlide(1)">❯</a>  
-    </div>  
-  
-    <script type="text/javascript">  
-        var slide_index = 1;  
-        displaySlides(slide_index);  
-  
-        function nextSlide(n) {  
-            displaySlides(slide_index += n);  
-        }  
-  
-        function currentSlide(n) {  
-            displaySlides(slide_index = n);  
-        }  
-  
-        function displaySlides(n) {  
-            var i;  
-            var slides = document.getElementsByClassName("showSlide");  
-            if (n > slides.length) { slide_index = 1 }  
-            if (n < 1) { slide_index = slides.length }  
-            for (i = 0; i < slides.length; i++) {  
-                slides[i].style.display = "none";  
-            }  
-            slides[slide_index - 1].style.display = "block";  
-        }  
-        </script>  
-        <br />
-<div class="mobileHide">
+   
+   <div class="mobileHide">
         <h3> <h3 class="somename0" >A Family of Microwaves with Different Aesthetics  </h3>
         <p> <p class="somename1" > Each microwave has a different handles, feet and buttons. 
         <br /> <p class="somename2" > This project was an exploration of form and what makes a family of objects.
@@ -181,6 +74,26 @@ body {
         <h3> <h3 class="micro6">Special Thanks </h3>
         <p> <p class="micro7"> Special thanks to the Noah Wangerin for mentoring me. </p>
 </div>
+   
+      
+      
+      
+         <img src="Microwave Images/Autumn_1.png" width="532" length="532"/>   
+      
+      </br>
+      
+        <img src="Microwave Images/Autumn_2.jpg"width="532" length="532"/>   
+     </br>
+      
+        <img src="Microwave Images/Autumn_3.jpg" width="532" length="532"/>   
+      
+ 
+      
+      
+      
+
+        <br />
+
 <br />
 <br />
 <br />
