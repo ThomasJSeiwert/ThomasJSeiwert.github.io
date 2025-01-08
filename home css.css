@@ -210,33 +210,8 @@ img {
 
 img.linked { margin-left: 16px; }
 
-@media (max-width: 960px) { 
-
-img.device2 { margin-left: 10%; }
-img.kitchen2 { margin-left: 50px; }
-img.fca2 { margin-left: 50px; }
-img.renderings2 { margin-left: 60px; }
-img.AED2 { margin-left: 10%; }
-img.toilet2 { margin-left: 60px; }
-img.microwave2 { margin-left: 50px; }
-img.camera2 { margin-left: 60px; }
-img.back2 { margin-left: 50px; }
-
-hr { width:76%; }                        
-}
 
 
-img.device2 { margin-left: 10%; }
-img.kitchen2 { margin-left: 60px; }
-img.fca2 { margin-left: 60px; }
-img.renders2 { margin-left: 60px; }
-img.toilet2 { margin-left: 60px; }
-img.AED2 { margin-left: 10%; }
-img.toaster2 { margin-left: 60px; }
-img.dog2 { margin-left: 60px; }
-img.rice2 { margin-left: 60px; }
-img.back2 { margin-left: 60px; }
-img.camera2 { margin-left: 60px; }
 
 
 
