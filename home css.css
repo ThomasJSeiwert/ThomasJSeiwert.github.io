@@ -212,7 +212,7 @@ img.linked { margin-left: 16px; }
 
 @media (max-width: 960px) { 
 
-img.device2 { margin-left: 50px; }
+img.device2 { margin-left: 10%; }
 img.kitchen2 { margin-left: 50px; }
 img.fca2 { margin-left: 50px; }
 img.renderings2 { margin-left: 60px; }
@@ -226,7 +226,7 @@ hr { width:76%; }
 }
 
 
-img.device2 { margin-left: 60px; }
+img.device2 { margin-left: 10%; }
 img.kitchen2 { margin-left: 60px; }
 img.fca2 { margin-left: 60px; }
 img.renders2 { margin-left: 60px; }
