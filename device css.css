@@ -26,6 +26,18 @@ hr { width:93%; }
 
 
 
+<style>
+   .newnew2-left {
+       display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+   }
+</style>
+
+
+
+
 a {
 float: none;
 }
