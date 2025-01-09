@@ -191,21 +191,16 @@ h2.what5 {text-indent: 70px;}
 img.device2 {text-align: center;}
 img.logo {text-indent:180px;}
 
-img { max-width: 100%; 
-      diplay:block;}
 
 
-hr {
-    width:93%;
-}
+
+
 
 img {
     -webkit-filter: brightness(100%);
 }
 
-/*img.insta {
-    -webkit-filter: brightness(200%);
-}*/
+
 
 img.linked { margin-left: 16px; }
 
@@ -223,26 +218,7 @@ img:hover {
     transition: all .2s ease;
 }
 
-/*img.insta:hover {
-    -webkit-filter: brightness(30%);
-    -webkit-transition: all .2s ease;
-    -moz-transition: all .2s ease;
-    -o-transition: all .2s ease;
-    -ms-transition: all .2s ease;
-    transition: all .2s ease;
-}*/
 
-/*img.insta:hover {-webkit-filter: brightness(150%); }*/
-
-
-/*img.linked:hover {
-    -webkit-filter: brightness(150%);
-    -webkit-transition: all .2s ease;
-    -moz-transition: all .2s ease;
-    -o-transition: all .2s ease;
-    -ms-transition: all .2s ease;
-    transition: all .2s ease;
-}*/
 
 }img.logo {
     -webkit-filter: brightness(100%);
@@ -311,9 +287,7 @@ h1.Tom {
   margin-bottom: 0em ;
 }
 
-hr {
-  border-top: 2px solid rgb(0,0,0);
-}
+
 
 a {
 text-decoration:none;
