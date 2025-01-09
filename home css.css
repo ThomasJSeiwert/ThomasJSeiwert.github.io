@@ -4,12 +4,8 @@ a.contact1 {margin-left: 930px;}
 
 
 
-.device {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
+.device {margin-left: 100%}
+
 
 
 
