@@ -22,7 +22,7 @@ h3 { text-align: left;}
 img.logo1 {text-indent:70px;}
 h3.special {text-indent:350px;}
 img.logo {text-indent:70px;}
-hr { width:93%; }   
+
 
 
 
@@ -229,8 +229,7 @@ and (max-device-width : 480px) {
 @media (max-width: 960px) { 
 
 
-hr { width:73%; }                        
-}
+
 
 
 p.number {text-indent: 70px;}
@@ -284,9 +283,8 @@ h1 {
   margin-bottom: 0em ;
 }
 
-hr {
-  border-top: 2px solid rgb(0,0,0);
-}
+
+
 
 a {
 text-decoration:none;
