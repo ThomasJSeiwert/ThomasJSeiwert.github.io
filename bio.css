@@ -40,7 +40,7 @@ h3.experience { text-indent: 350px; }
 h3.education { text-indent: 350px; }
 
 h3.contact { text-indent: 350px; }
-hr { width:93%; }    
+
 
 
 img {
@@ -225,8 +225,7 @@ font-size: 14px !important;
 @media (max-width: 960px) { 
 
 
-hr { width:73%; }                        
-}
+
 
 img.insta { margin-left: 672px; }
 img.linked { margin-left: 16px; }
@@ -308,9 +307,7 @@ h1 {
   margin-bottom: 0em ;
 }
 
-hr {
-  border-top: 2px solid rgb(0,0,0);
-}
+
 
 a {
 text-decoration:none;
