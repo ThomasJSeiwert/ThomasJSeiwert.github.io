@@ -3,6 +3,10 @@ a.bio1 {margin-left: 930px;}
 a.contact1 {margin-left: 930px;}
 
 
+a {
+float: none;
+}
+
 
 .mobileBlow {
     width: 100%;
