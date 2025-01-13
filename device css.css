@@ -1,6 +1,6 @@
 p.email { text-indent: 70px; }
 
-h3.noname1 { text-indent: 15px; }
+
 p.noname2 { text-indent: 15px; }
 p.noname3 { text-indent: 15px; }
 p.noname4 { text-indent: 15px; }
@@ -10,17 +10,17 @@ p.noname7 { text-indent: 15px; }
 
 p.noname9 { text-indent: 15px; }
 
-h3.somename0 { text-indent: 30%; }
+
 h3.somename4 { text-indent: 30%; }
 p.somename1 { text-indent: 30%; }
 p.somename2 { text-indent: 30%; }
 p.somename3 { text-indent: 30%; }
 p.somename5 { text-indent: 350px; }
-h3.somename3 { text-indent: 30%; }
 
-img.logo1 {text-indent:70px;}
-h3.special {text-indent:350px;}
-img.logo {text-indent:70px;}
+
+
+
+
 
 
 
@@ -56,7 +56,7 @@ float: none;
 }
 
 
-h3.render1 { text-indent: 15px; }
+
 p.render2 { text-indent: 15px; }
 p.render3 { text-indent: 15px; }
 
@@ -176,12 +176,12 @@ html {
 
 
 
-h3.micro1 { text-indent: 15px; }
+
 p.micro2 { text-indent: 15px; }
 p.micro3 { text-indent: 15px; }
 p.micro4 { text-indent: 15px; }
 p.micro5 { text-indent: 15px; }
-h3.micro6 { text-indent: 15px; }
+
 p.micro7 { text-indent: 15px; }
 
 
