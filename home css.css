@@ -2,7 +2,10 @@ a.home1 {margin-left: 930px;}
 a.bio1 {margin-left: 930px;}
 a.contact1 {margin-left: 930px;}
 
-
+.logo {
+    width: 100%;
+    text-align: center;
+    }
 
 .mobileLow {
     width: 100%;
