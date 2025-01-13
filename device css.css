@@ -1,21 +1,3 @@
-p.email { text-indent: 70px; }
-
-
-p.noname2 { text-indent: 15px; }
-p.noname3 { text-indent: 15px; }
-p.noname4 { text-indent: 15px; }
-p.noname5 { text-indent: 15px; }
-p.noname6 { text-indent: 15px; }
-p.noname7 { text-indent: 15px; }
-
-p.noname9 { text-indent: 15px; }
-
-
-h3.somename4 { text-indent: 30%; }
-p.somename1 { text-indent: 30%; }
-p.somename2 { text-indent: 30%; }
-p.somename3 { text-indent: 30%; }
-p.somename5 { text-indent: 350px; }
 
 
 
@@ -57,8 +39,7 @@ float: none;
 
 
 
-p.render2 { text-indent: 15px; }
-p.render3 { text-indent: 15px; }
+
 
 
 
@@ -177,12 +158,7 @@ html {
 
 
 
-p.micro2 { text-indent: 15px; }
-p.micro3 { text-indent: 15px; }
-p.micro4 { text-indent: 15px; }
-p.micro5 { text-indent: 15px; }
 
-p.micro7 { text-indent: 15px; }
 
 
 
@@ -207,7 +183,7 @@ and (max-device-width : 480px) {
 
 
 
-p.number {text-indent: 70px;}
+
 
 h1 {color: rgb(0,0,0);}
 
@@ -241,10 +217,6 @@ border-width: 2px;}
 
 
 
-p.buttons { text-indent: 70px; }
-
-
-p.thanks { text-indent: 350px;}
 
 
 
