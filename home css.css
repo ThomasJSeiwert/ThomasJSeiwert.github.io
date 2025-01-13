@@ -11,6 +11,11 @@ a.contact1 {margin-left: 930px;}
     width: 100%;
     text-align: center;
     }
+    
+    .mobileRow {
+    width: 100%;
+    text-align: center;
+    }
 
 
 a {
@@ -243,7 +248,7 @@ img {
 
 
 
-img.linked { margin-left: 16px; }
+
 
 
 
@@ -339,8 +344,7 @@ a:hover, a:active { text-decoration: none; color:grey }
 
 
 </div>
-img.insta { margin-left: 672px; }
-img.linked { margin-left: 16px; }
+
 
 
 img.insta22: hover {
