@@ -4,7 +4,10 @@ a.contact1 {margin-left: 930px;}
 
 
 
-p { text align: center;}
+.mobileLow {
+    width: 100%;
+    text-align: center;
+    }
 
 
 a {
