@@ -308,6 +308,29 @@ button.butt:hover {
 
 
 
+
+a {
+text-decoration:none;
+}
+a:visited { text-decoration: none; color:black; }
+a:hover { text-decoration: none; color:black; }
+a:focus { text-decoration: none; color:grey; }
+a:hover, a:active { text-decoration: none; color:grey }
+
+a.email {
+text-decoration:none;
+}
+a:visited { text-decoration: none; color:black; }
+a:hover { text-decoration: none; color:black; }
+a:focus { text-decoration: none; color:grey; }
+a:hover, a:active { text-decoration: none; color:grey }
+a {
+
+
+
+
+
+
 img:insta {-webkit-filter: brightness(150%); }
 
 img:linked {-webkit-filter: brightness(150%); }
