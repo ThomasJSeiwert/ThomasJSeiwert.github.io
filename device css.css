@@ -39,7 +39,17 @@ float: none;
 
 
 
+li {
+  display: inline;
+}
 
+ul {
+  background-color: #dddddd;
+}
+
+    .active {
+  background-color: #04AA6D;
+}
 
 
 
