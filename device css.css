@@ -49,7 +49,7 @@ img.insta:hover {
 }
 
 
-toggleButton.addEventListener('click', (evt) => {
+menu__toggle.addEventListener('click', (evt) => {
     evt.preventDefault();
     navList.classList.toggle('active')
 }
