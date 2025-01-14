@@ -275,31 +275,7 @@ a:hover, a:active { text-decoration: none; color:grey }
 a {
 
 
-* {box-sizing: border-box}
 
-/* Full-width input fields */
-  input[type=text], input[type=text], input[type=email], input[type=text] {
-  width: 10%;
-  padding: 15px;
-
-  display: inline-block;
-  border: none;
-  background: #f1f1f1;
-}
-
-  comments.php {
-  width: 20%;
-  padding: 15px;
-
-  display: inline-block;
-  border: none;
-  background: #f1f1f1;
-}
-
-input[type=text]:focus, input[type=email]:focus {
-  background-color: #ddd;
-  outline: none;
-}
 
 
 
