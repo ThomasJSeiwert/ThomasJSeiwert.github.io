@@ -280,7 +280,7 @@ a {
 /* Full-width input fields */
   input[type=text], input[type=text], input[type=email], input[type=text] {
   width: 10%;
-  padding: 0px;
+  padding: 15px;
 
   display: inline-block;
   border: none;
@@ -289,7 +289,7 @@ a {
 
   comments.php {
   width: 20%;
-  padding: 0px;
+  padding: 15px;
 
   display: inline-block;
   border: none;
