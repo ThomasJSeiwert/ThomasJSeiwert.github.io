@@ -39,6 +39,11 @@ float: none;
 
 
 
+
+
+
+
+    
 li {
   display: inline;
 }
@@ -51,7 +56,23 @@ ul {
   background-color: #04AA6D;
 }
 
+li {
+  float: left;
+}
 
+a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
+
+
+
+
+
+
+
+    
 
 
 img.insta:hover {
