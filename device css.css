@@ -49,10 +49,7 @@ img.insta:hover {
 }
 
 
-menu__toggle.addEventListener('click', (evt) => {
-    evt.preventDefault();
-    navList.classList.toggle('active')
-}
+
 
 #menu__toggle {
   opacity: 0;
