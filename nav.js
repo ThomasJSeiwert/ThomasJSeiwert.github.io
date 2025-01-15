@@ -23,9 +23,6 @@ function mobileMenu() {
     .hamburger.active .bar:nth-child(3) {
         transform: translateY(-8px) rotate(-45deg);
     }
-    toggleButton.addEventListener('click', (evt) => {
-    evt.preventDefault();
-    navList.classList.toggle('active')
-})
+ 
     
 </script> 
