@@ -6,6 +6,17 @@ a.contact1 {margin-left: 930px;}
 a.bio { text-align: center;}
 
 
+
+#rectangle{
+    width:100%;
+    height:20px;
+    background:blue;
+}
+
+
+
+
+
 .mobileHey { position: fixed;
            z-index: 7;
            width: 100%;
