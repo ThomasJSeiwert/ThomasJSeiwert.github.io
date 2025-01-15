@@ -8,6 +8,7 @@ a.bio { text-align: center;}
 
 .mobileHey { position: fixed;
            z-index: 7;
+           width: 100%;
            text-align: center;
            }
 
