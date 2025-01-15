@@ -49,7 +49,7 @@ elem.onClick = function (e) {
 }
 
 
-
+a.bio { text-align: center;}
 
 #rectangle{
     width:100%;
