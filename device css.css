@@ -51,7 +51,23 @@ elem.onClick = function (e) {
 
 
 
+#rectangle{
+    width:100%;
+    height:50px;
+    background:#CFD8DC;
+    position: fixed;
+     z-index: 6;
+}
 
+
+
+
+
+.mobileHey { position: fixed;
+           z-index: 7;
+           width: 100%;
+           text-align: center;
+           }
 
     
 
