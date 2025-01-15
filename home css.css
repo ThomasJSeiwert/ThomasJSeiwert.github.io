@@ -4,11 +4,14 @@ a.contact1 {margin-left: 930px;}
 
 
 
-a.homenav {position: fixed;}
-a.bionav {position: fixed;}
-a.contactnav {position: fixed;}
 
 
+.mobileHey {position: fixed;
+            width: 100%;
+    text-align: center;
+           z-index: 5;
+           
+           }
 
 
 
