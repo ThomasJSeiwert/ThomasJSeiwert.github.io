@@ -23,6 +23,11 @@ function mobileMenu() {
     .hamburger.active .bar:nth-child(3) {
         transform: translateY(-8px) rotate(-45deg);
     }
- 
+    
+ elem.onClick = function (e) {
+  e.preventDefault();
+  document.getElementById('menu').style.width = '250px';
+  document.getElementById('content').style.marginRight = '250px';
+}
     
 </script> 
