@@ -6,7 +6,7 @@ a.contact1 {margin-left: 930px;}
 
 
 
-.mobileHey {
+.mobileHey { position: fixed;
            z-index: 7;
            
            }
