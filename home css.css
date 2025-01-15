@@ -6,10 +6,8 @@ a.contact1 {margin-left: 930px;}
 
 
 
-.mobileHey {position: fixed;
-            width: 100%;
-    text-align: center;
-           z-index: 5;
+.mobileHey {
+           z-index: 7;
            
            }
 
