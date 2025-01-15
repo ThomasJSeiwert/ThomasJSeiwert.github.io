@@ -1,0 +1,290 @@
+<html>
+<head>
+<title>
+Thomas J Seiwert Industrial Design
+</title>
+<link href="home css.css" type="text/css" rel="stylesheet" />
+<style type="text/css">
+   .mobileHide { display: inline;}
+   /* Smartphone Portrait and Landscape */
+   @media only screen
+   and (min-device-width : 320px)
+   and (max-device-width : 480px){  .mobileHide { display: none;}}
+</style>
+<style type="text/css">
+   .mobileShow { display: none;}
+   /* Smartphone Portrait and Landscape */
+   @media only screen
+   and (min-device-width : 320px)
+   and (max-device-width : 480px){ .mobileShow { display: inline;}
+</style>
+<meta name="viewport" content="width=device-width; initial-scale=.7">
+   
+   
+</head>
+
+<div id="links">
+
+
+
+<script src="nav.js"></script>
+
+   
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+   
+
+
+
+
+
+
+
+
+     
+
+
+
+
+
+
+
+   
+     
+     
+<style>
+m#links{
+position: fixed;
+display: none;
+width: 100vw;
+height: 65vh;
+padding: Ovh 0;
+
+z-index: 9999;
+</style>
+
+
+
+
+
+
+     
+
+
+
+
+
+
+</br>
+
+
+
+</br>
+</br>
+
+
+    <div class="mobileWoah">
+ <a href="index.html"><img src="Images/LOGO1.jpeg" width="75px" length="75px" align="middle" img class="logo" /></a> 
+</br>
+</br>
+</div>
+
+	
+
+   <div class="mobileLow">
+   </br>
+<h1><h1 class="Tom">Thomas J Seiwert</h1>
+<p>Designer</p>
+</div>
+
+<br />
+
+
+
+
+	
+<br />
+<br />  
+
+
+<div class="mobileHide">
+   <div class="mobileLow">
+<a href="device.html"><img class="device"><img src="Images/device thumbnail.jpg"  width="40%" length="40%" title="Alert Device for Deaf 2020" /></a>
+<a href="AED.html"><img class="aed"><img src="Images/Cropped_Image (6).png" width="40%" length="40%" title="AED Emergency Station 2024" /></a>
+ 
+
+<a href="rice.html"><img class="fca"><img src="Images/Cropped_Image (4).png" width="40%" length="40%" title="Rice Cooker 2019" /></a>
+<a href="kitchen.html"><img class="kitchen"><img src="Images/Cropped_Image (5).png"  width="40%" length="40%" title="Kitchen Apliances 2019" /></a>
+ 
+ <a href="camera.html"><img class="toilet"><img src="Images/dog thumbnail.jpeg"  width="40%" length="40%" title="Dog Feeder and Camera 2018" /></a>
+<a href="fca.html"><img class="toaster"><img src="Images/Cropped_Image-_2_.jpeg"  width="40%" length="40%" title="FCA Trash Console 2019" /></a>
+ 
+   
+<a href="backpack.html"><img class="renderings"><img src="Backpack Images/back_thumb.png" width="40%" length="40%" title="College Backpack 2017" /></a>
+<a href="microwave.html"><img class="rice"><img src="Images/toaster thumbnail.jpeg" width="40%" length="40%" title="Toaster Family 2019" /></a>
+	   
+<a href="renders.html"><img class="back"><img src="Images/renderings thumbnail 2.jpeg" width="40%" length="40%" title="Renderings 2016-2021" /></a>
+<a href="toilet.html"><img class="camera"><img src="Images/Cropped_Image (toilet).png"   width="40%" length="40%" title="Water Conservation 2018" /></a>
+</div>
+</div>
+
+
+<div class="mobileShow">
+<div class="mobileBlow">
+<br />
+<br />
+<a href="device.html"><img class="device2"><img src="Images/device thumbnail.jpg" width="80%" length="80%" align="middle" margin="auto" title="Alert Device for Deaf 2020" /></a>
+</br>
+</br>
+<p> <p class="description1"> Sound Alert Device for Deaf </p>
+</br>
+</br>
+</br>
+</br>
+<a href="AED.html"><img class="AED2"><img src="Images/Cropped_Image (6).png" width="80%" length="80%" title="AED Emergency Station 2024" align="center" /></a>
+</br>
+</br>
+<p> <p class="description1"> AED Emergency Station </p>
+</br>
+</br>
+</br>
+</br>
+<a href="rice.html"><img class="fca2"><img src="Images/Cropped_Image (4).png" width="80%" length="80%"  align="center" title="Rice Cooker 2019" /></a>
+</br>
+</br>
+<p> <p class="description1"> Rice Cooker </p>
+</br>
+</br>
+</br>
+</br>
+<a href="kitchen.html"><img class="kitchen2"><img src="Images/Cropped_Image (5).png"  width="80%" length="80%"  align="center" title="Kitchen Apliances 2019" /></a>
+</br>
+</br>
+<p> <p class="description1"> Family of Kitchen Appliances with Interface </p>
+</br>
+</br>
+</br>
+</br>
+<a href="camera.html"><img class="toilet2"><img src="Images/dog thumbnail.jpeg"  width="80%" length="80%"  align="center" title="Dog Feeder and Camera 2018" /></a>
+</br>
+</br>
+<p> <p class="description1"> Dog Feeder and Camera Monitoring </p>
+</br>
+</br>
+</br>
+</br>
+<a href="fca.html"><img class="toaster2"><img src="Images/Cropped_Image-_2_.jpeg"  width="80%" length="80%"  align="center" title="FCA Trash Console 2019" /></a>
+</br>
+</br>
+<p> <p class="description1">Trash Console for Chrysler Pacifica </p>
+</br>
+</br>
+</br>
+</br>
+<a href="backpack.html"><img class="renderings2"><img src="Backpack Images/back_thumb.png" width="80%" length="80%"  align="center" title="College Backpack 2017" /></a>
+
+</br>
+</br>
+<p> <p class="description1"> College Backpack </p>
+</br>
+</br>
+</br>
+</br>
+<a href="microwave.html"><img class="rice2"><img src="Images/toaster thumbnail.jpeg" width="80%" length="80%"  align="center" title="Toaster Family 2019" /></a>
+</br>
+</br>
+<p> <p class="description1"> Family of Microwaves </p>
+</br>
+</br>
+</br>
+</br>
+<a href="toilet.html"><img class="camera2"><img src="Images/Cropped_Image (toilet).png"   width="80%" length="80%"  align="center" title="Water Conservation 2018" /></a>
+</br>
+</br>
+<p> <p class="description1"> Household Water Conservation System </p>
+</br>
+</br>
+</br>
+</br>
+<a href="renders.html"><img class="back2"><img src="Images/renderings thumbnail 2.jpeg" width="80%" length="80%"  align="center" title="Renderings 2016-2021" /></a>
+</br>
+</br>
+<p> <p class="description1"> More Renderings </p>
+</br>
+</br>
+
+
+</div>
+</div>
+
+<br />
+<br />   
+<br />   
+
+
+
+
+
+
+
+
+
+   <div class="mobileLow">
+<a href="https://www.instagram.com/tj_industrial_design/"><img class="instamobile"><img src="Images/insta1.png" width="35 length="35" /></a>
+<a href="https://www.linkedin.com/in/thomas-seiwert-30587a101/"><img class="linkedmobile"><img src="Images/linked.png" width="35" length="35" /></a>
+</div>
+
+</br>
+</br>
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+<br />
+<body>
+
+
+
+
+
+
+
+<div class="mobileShow">
+</br><div class="hamburger-menu">
+    <input id="menu__toggle" type="checkbox" />
+    <label class="menu__btn" for="menu__toggle">
+      <span></span>
+    </label>
+
+    <ul class="menu__box">
+      </br>
+      <hr>
+      <li><a href="index.html" a class="menu__item" href="#">Home</a></li>
+      <hr>
+      <li><a href="bio.html" a class="menu__item" href="#">About</a></li>
+      <hr>
+      <li><a href="contact.html" a class="menu__item" href="#">Contact</a></li>
+      <hr>
+    </ul>
+  </div>
+</div>	
+   
+
+
+</body>
+
+</html>
