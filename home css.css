@@ -9,9 +9,10 @@ a.bio { text-align: center;}
 
 #rectangle{
     width:100%;
-    height:20px;
+    height:50px;
     background:blue;
     position: fixed;
+     z-index: 6;
 }
 
 
