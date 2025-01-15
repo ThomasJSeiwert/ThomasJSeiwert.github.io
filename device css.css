@@ -44,7 +44,10 @@ float: none;
 
 
 
-
+toggleButton.addEventListener('click', (evt) => {
+    evt.preventDefault();
+    navList.classList.toggle('active')
+})
 
 
 
