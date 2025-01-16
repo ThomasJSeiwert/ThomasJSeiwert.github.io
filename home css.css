@@ -40,7 +40,9 @@ a.bio { text-align: center;}
 
 .mobileLow {
     width: 100%;
+    height: 40%
     text-align: center;
+    overflow: hidden;
     }
     
     .mobileRow {
