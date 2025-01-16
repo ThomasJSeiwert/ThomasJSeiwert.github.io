@@ -39,6 +39,14 @@ a.bio { text-align: center;}
     text-align: center;
     }
     
+    .mobileSo {
+    width: 80%;
+    length: 40%
+    overflow: hidden;
+    text-align: center;
+    
+    }
+    
     .mobileRow {
     width: 100%;
     text-align: center;
