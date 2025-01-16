@@ -16,7 +16,11 @@ a.bio { text-align: center;}
 }
 
 
-.mobileOverflow { overflow: hidden;}
+.mobileOverflow { 
+    width: 80%
+    height 30%
+    
+    overflow: hidden;}
 
 
 .mobileHey { position: fixed;
