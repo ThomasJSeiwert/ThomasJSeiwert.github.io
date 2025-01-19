@@ -39,7 +39,23 @@ h3. education { text-indent: 350px; }
 h3.contact { text-indent: 350px; }
 
 
+#rectangle{
+    width:100%;
+    height:50px;
+    background:#CFD8DC;
+    position: fixed;
+     z-index: 6;
+}
 
+
+
+
+
+.mobileHey { position: fixed;
+           z-index: 7;
+           width: 100%;
+           text-align: center;
+           }
 
     .mobileLow {
     width: 100%;
