@@ -38,11 +38,7 @@ float: none;
 }
 
 
-a.Previous1 { text-alight: left; 
-    }
 
-a.Next1 { text-alight: right; 
-    }
 
 
 elem.onClick = function (e) {
