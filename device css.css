@@ -38,11 +38,6 @@ float: none;
 }
 
 
-p.dog2 { padding-left: 20px;
-    padding-right: 20px;
-    
-    
-}
 
 
 elem.onClick = function (e) {
