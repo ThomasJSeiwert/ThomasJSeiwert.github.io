@@ -38,7 +38,11 @@ float: none;
 }
 
 
-
+p.dog2 { padding-left: 10%;
+    padding-right: 10%;
+    
+    
+}
 
 
 elem.onClick = function (e) {
