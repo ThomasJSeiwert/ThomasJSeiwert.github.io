@@ -6,11 +6,7 @@ a.contact1 {margin-left: 930px;}
 a.bio { text-align: center;}
 
 .mobileLowS {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
+  
     background: #fff;
     color: #101010;
     font-family: 'Arial', sans-serif;
