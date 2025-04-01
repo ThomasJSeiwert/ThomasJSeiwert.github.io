@@ -44,10 +44,8 @@ p.dog4 { margin-left: 20%;
 }
 
 
-p.dog5 { padding-left: 500px;
-padding-right: 500px;
-padding-top: 20px;
-padding-bottom: 20px;
+p.dog5 { margin-left: 20%;
+     margin-right: 20%;
 }
 
 
