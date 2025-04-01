@@ -11,8 +11,8 @@ a.bio { text-align: center;}
     align-items: center;
     height: 100vh;
     margin: 0;
-    background: #101010;
-    color: #fff;
+    background: #fff;
+    color: #101010;
     font-family: 'Arial', sans-serif;
 }
 
