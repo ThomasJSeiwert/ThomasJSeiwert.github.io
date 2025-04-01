@@ -5,7 +5,7 @@ a.contact1 {margin-left: 930px;}
 
 a.bio { text-align: center;}
 
-body {
+.MobileLow {
     display: flex;
     justify-content: center;
     align-items: center;
