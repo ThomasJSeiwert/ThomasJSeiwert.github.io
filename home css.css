@@ -416,4 +416,22 @@ img.linked:hover {
 
 
 
+
+
+button.button {
+  background-color: rgb(0,0,0);
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+button.button {
+  background-color: rgb(0,0,0);
+}
+
+
+
+
 </body
