@@ -1,3 +1,37 @@
+button.btn {
+  background-color: rgb(0,0,0);
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+button.btn {
+  background-color: rgb(0,0,0);
+}
+
+buttonmobile.btn {
+  background-color: rgb(0,0,0);
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+buttonmobile.btn {
+  background-color: rgb(0,0,0);
+}
+
+
+
+}
+
+
+
+
+
 a.home1 {margin-left: 930px;}
 a.bio1 {margin-left: 930px;}
 a.contact1 {margin-left: 930px;}
